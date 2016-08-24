@@ -18,7 +18,7 @@ import com.highpay.zoom.spider.utils.json.JsonMapper;
  * @title 兴业证券
  * 
  * @author 邱吉胜
- * @email jisheng_qiu@kingdee.com
+ * @email jisheng_qiu
  * @time 2016年5月5日
  * @version 1.0
  */

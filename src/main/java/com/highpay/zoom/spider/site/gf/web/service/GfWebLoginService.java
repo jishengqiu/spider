@@ -16,7 +16,7 @@ import com.highpay.zoom.spider.utils.io.MyFileUtils;
  * @title 广发证券
  * 
  * @author 邱吉胜
- * @email jisheng_qiu@kingdee.com
+ * @email jisheng_qiu
  * @time 2016年4月27日
  * @version 1.0
  */
