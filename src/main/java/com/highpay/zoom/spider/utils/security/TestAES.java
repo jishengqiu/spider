@@ -12,8 +12,8 @@ import com.highpay.zoom.spider.utils.http.HttpPostUtils;
  */
 public class TestAES {
 	public static void main(String[] args) {
-		String account = "13509692759";
-		String password = "qiujisheng89";
+		String account = "";
+		String password = "";
 		String message = "x3zMUeaBrazoJK1Iqq+zxA==";
 		String key = "0C5E75A210884F61";
 		
