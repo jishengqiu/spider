@@ -80,7 +80,7 @@ define(['util'], function(util) {
 		 * @param {Object} data 请求数据
 		 */
 		request: function(url, data) {
-			var REQUEST_URL_PREFIX = 'http://lcjlc.feidee.net/julicai';
+			var REQUEST_URL_PREFIX = '';
 			var REQUEST_DATA = {
 				head: {
 					version: '',
